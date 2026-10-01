@@ -1,0 +1,39 @@
+# Hannah Barton
+
+## Description
+
+I am interested in looking at how where someone is born and what kinds of people they grow up around impact their economic mobility. 
+I am also interested in trends of where people move within the United States, and how this correlates with upward mobility. 
+
+## Data Sources
+
+### Data Source 1: County-Level (or Commuting Zone) Trends in Outcomes (1978-1992 Cohorts) by Parental Income, Race, and Gender
+
+URL: https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=4687#resource-listing
+
+Size: 3192 rows, 1000 columns
+
+This dataset measures upward mobility by documenting the change in income and employment of parents and childrent between cohorts born in 1978 and 1992.
+
+### Data Source 2: Migration Patterns by Race and Parental Income
+
+URL: https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=0#resource-listing
+
+Size: 1,000,000 rows, 12 columns
+
+Contains count and fractions of people who move between each origin and destination commuting zone pair separately by race/ethnicity and parental income quintile. These data are unique at the OD x race/ethnicity x parental income level. The Origin/Desination locations are at the Comutting Zone level. 
+
+### Data Source 3: Social Capital: Measurement and Associations with Economic Mobility
+
+URL: https://data.humdata.org/dataset/social-capital-atlas
+
+Size: 3090 rows, 26 columns
+*Number of rows depends on level of data. There is County, ZIP code, High School, and College level data.
+
+This data contains social capital statistics meaured by connectedness, cohesiveness, and civic engagement. It also measures the degree to which people from different SES interact with each other. 
+
+## Questions
+
+1. The migration dataset does not have many variables, but the pool variable is a combination of income and race. Since the data is in long format I still think there are a lot of possible graphs to make from it, or I can join in other data from Opportunity Insights by Commuting Zone.
+2. I'm not sure what level of data I would do for this one, county is probably most straightforward but I think the school level ones would also be interesting. 
+3. I could also roll up the county level social capital data and combine it with the migration data, which I think would be interesting, but that might be more work than neccessary.
