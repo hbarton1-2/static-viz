@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="190"
+   height="674"
+   viewBox="0 0 190 674"
+   id="svg217"
+   sodipodi:docname="race-inc-region.svg"
+   inkscape:version="1.4.4 (dcaf3e7d, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs217" />
+  <sodipodi:namedview
+     id="namedview217"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.76545762"
+     inkscape:cx="99.940216"
+     inkscape:cy="349.46416"
+     inkscape:window-width="1295"
+     inkscape:window-height="788"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g214" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(33,45)"
+     id="g217">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g216">
+      <g
+         id="g215">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M 0,0 Z"
+           id="path1" />
+        <g
+           id="g214">
+          <g
+             class="mark-group role-row-header row_header"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g67">
+            <g
+               id="g18">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0,0 v 0 100 0 z"
+                 id="path2" />
+              <g
+                 id="g17">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Income Quintile' for a discrete scale with 5 values: 1, 2, 3, 4, 5"
+                   id="g16">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g15">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g14">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g7">
+                        <line
+                           transform="translate(0,9)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line3"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,29)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line4"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line5"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,70)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line6"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,89)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line7"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g11">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,12.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text7">1</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,32.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text8">2</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,52.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text9">3</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,72.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text10">4</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,92.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text11">5</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g12">
+                        <line
+                           x2="0"
+                           y2="100"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line11"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g13">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90,15.719238,34.280762)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text12" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path14" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path17" />
+            </g>
+            <g
+               transform="translate(0,140)"
+               id="g34">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0,0 v 0 100 0 z"
+                 id="path18" />
+              <g
+                 id="g33">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Income Quintile' for a discrete scale with 5 values: 1, 2, 3, 4, 5"
+                   id="g32">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g31">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path19" />
+                    <g
+                       id="g30">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g23">
+                        <line
+                           transform="translate(0,9)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line19"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,29)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line20"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line21"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,70)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line22"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,89)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line23"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g27">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,12.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text23">1</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,32.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text24">2</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,52.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text25">3</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,72.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text26">4</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,92.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text27">5</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g28">
+                        <line
+                           x2="0"
+                           y2="100"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line27"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g29">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90,15.719238,34.280762)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text28" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path30" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path33" />
+            </g>
+            <g
+               transform="translate(0,280)"
+               id="g50">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0,0 v 0 100 0 z"
+                 id="path34" />
+              <g
+                 id="g49">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Income Quintile' for a discrete scale with 5 values: 1, 2, 3, 4, 5"
+                   id="g48">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g47">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path35" />
+                    <g
+                       id="g46">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g39">
+                        <line
+                           transform="translate(0,9)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line35"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,29)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line36"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line37"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,70)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line38"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,89)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line39"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g43">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,12.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text39">1</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,32.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text40">2</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,52.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text41">3</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,72.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text42">4</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,92.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text43">5</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g44">
+                        <line
+                           x2="0"
+                           y2="100"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line43"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g45">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90,15.719238,34.280762)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text44" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path46" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path49" />
+            </g>
+            <g
+               transform="translate(0,420)"
+               id="g66">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0,0 v 0 100 0 z"
+                 id="path50" />
+              <g
+                 id="g65">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Income Quintile' for a discrete scale with 5 values: 1, 2, 3, 4, 5"
+                   id="g64">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g63">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path51" />
+                    <g
+                       id="g62">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g55">
+                        <line
+                           transform="translate(0,9)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line51"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,29)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line52"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,50)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line53"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,70)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line54"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,89)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line55"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g59">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,12.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text55">1</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,32.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text56">2</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,52.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text57">3</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,72.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text58">4</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,92.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text59">5</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g60">
+                        <line
+                           x2="0"
+                           y2="100"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line59"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g61">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90,15.719238,34.280762)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text60" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path62" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path65" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-column-footer column_footer"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g84">
+            <g
+               transform="translate(0,520)"
+               id="g83">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 100 V 0 Z"
+                 id="path67" />
+              <g
+                 id="g82">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'Race' for a discrete scale with 5 values: Asian, Black, Hispanic, White, Other"
+                   id="g81">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g80">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path68" />
+                    <g
+                       id="g79">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g72">
+                        <line
+                           transform="translate(9)"
+                           x2="0"
+                           y2="5"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line68"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(29)"
+                           x2="0"
+                           y2="5"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line69"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(50)"
+                           x2="0"
+                           y2="5"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line70"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(70)"
+                           x2="0"
+                           y2="5"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line71"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(89)"
+                           x2="0"
+                           y2="5"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line72"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g76">
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,9.75,-2.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text72">Asian</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,19.75,-12.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text73">Black</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,29.75,-22.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text74">Hispanic</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,39.75,-32.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text75">White</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,49.75,-42.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text76">Other</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g77">
+                        <line
+                           x2="100"
+                           y2="0"
+                           stroke="#4a4a44"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line76"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g78">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(50,58.349609)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           fill="#4a4a44"
+                           opacity="1"
+                           id="text77" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path79" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path82" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope cell"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g209">
+            <g
+               id="g115">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 100 V 100 H 0 Z"
+                 id="path84" />
+              <g
+                 id="g114">
+                <g
+                   class="mark-rect role-mark child_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g109">
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 1; share_left: 0.307708119219"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,0.2 H 19.8 V 19.8 H 0.2 Z"
+                     fill="#e8af94"
+                     id="path85" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 2; share_left: 0.290624607264"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,20.2 H 19.8 V 39.8 H 0.2 Z"
+                     fill="#ebb79d"
+                     id="path86" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 3; share_left: 0.30265947196"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,40.2 H 19.8 V 59.8 H 0.2 Z"
+                     fill="#e9b197"
+                     id="path87" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 4; share_left: 0.298397833173"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,60.2 H 19.8 V 79.8 H 0.2 Z"
+                     fill="#eab399"
+                     id="path88" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 5; share_left: 0.38653335546"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,80.2 H 19.8 V 99.8 H 0.2 Z"
+                     fill="#db8b68"
+                     id="path89" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 1; share_left: 0.222878791936"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,0.2 H 39.8 V 19.8 H 20.2 Z"
+                     fill="#f3d6c5"
+                     id="path90" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 2; share_left: 0.227688072926"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,20.2 H 39.8 V 39.8 H 20.2 Z"
+                     fill="#f3d4c2"
+                     id="path91" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 3; share_left: 0.265785239846"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,40.2 H 39.8 V 59.8 H 20.2 Z"
+                     fill="#eec2ac"
+                     id="path92" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 4; share_left: 0.276521685559"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,60.2 H 39.8 V 79.8 H 20.2 Z"
+                     fill="#edbda6"
+                     id="path93" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 5; share_left: 0.33271859939"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,80.2 H 39.8 V 99.8 H 20.2 Z"
+                     fill="#e4a386"
+                     id="path94" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 1; share_left: 0.261215670029"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,0.2 H 59.8 V 19.8 H 40.2 Z"
+                     fill="#efc4ae"
+                     id="path95" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 2; share_left: 0.24470910449"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,20.2 H 59.8 V 39.8 H 40.2 Z"
+                     fill="#f1ccb8"
+                     id="path96" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 3; share_left: 0.244488619631"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,40.2 H 59.8 V 59.8 H 40.2 Z"
+                     fill="#f1ccb8"
+                     id="path97" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 4; share_left: 0.253201817806"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,60.2 H 59.8 V 79.8 H 40.2 Z"
+                     fill="#f0c8b3"
+                     id="path98" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 5; share_left: 0.342745909718"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,80.2 H 59.8 V 99.8 H 40.2 Z"
+                     fill="#e39f80"
+                     id="path99" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 1; share_left: 0.31741307399"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,0.2 H 99.8 V 19.8 H 80.2 Z"
+                     fill="#e7aa8e"
+                     id="path100" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 2; share_left: 0.324745797094"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,20.2 H 99.8 V 39.8 H 80.2 Z"
+                     fill="#e6a78a"
+                     id="path101" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 3; share_left: 0.356238426505"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,40.2 H 99.8 V 59.8 H 80.2 Z"
+                     fill="#e09978"
+                     id="path102" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 4; share_left: 0.364749256528"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,60.2 H 99.8 V 79.8 H 80.2 Z"
+                     fill="#df9574"
+                     id="path103" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 5; share_left: 0.417142857143"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,80.2 H 99.8 V 99.8 H 80.2 Z"
+                     fill="#d47d57"
+                     id="path104" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 1; share_left: 0.317954302003"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,0.2 H 79.8 V 19.8 H 60.2 Z"
+                     fill="#e7aa8e"
+                     id="path105" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 2; share_left: 0.325267375352"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,20.2 H 79.8 V 39.8 H 60.2 Z"
+                     fill="#e5a78a"
+                     id="path106" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 3; share_left: 0.341268917479"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,40.2 H 79.8 V 59.8 H 60.2 Z"
+                     fill="#e3a081"
+                     id="path107" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 4; share_left: 0.346273342257"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,60.2 H 79.8 V 79.8 H 60.2 Z"
+                     fill="#e29d7e"
+                     id="path108" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 5; share_left: 0.403668135836"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,80.2 H 79.8 V 99.8 H 60.2 Z"
+                     fill="#d7835e"
+                     id="path109" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g113">
+                  <g
+                     transform="translate(50,-20)"
+                     id="g112">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path110" />
+                    <g
+                       id="g111">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Midwest'"
+                         pointer-events="none"
+                         id="g110">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,8)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text110"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000">Midwest</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path111" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path114" />
+            </g>
+            <g
+               transform="translate(0,140)"
+               id="g146">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 100 V 100 H 0 Z"
+                 id="path115" />
+              <g
+                 id="g145">
+                <g
+                   class="mark-rect role-mark child_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g140">
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 1; share_left: 0.228686425174"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,0.2 H 19.8 V 19.8 H 0.2 Z"
+                     fill="#f3d3c2"
+                     id="path116" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 2; share_left: 0.195116121579"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,20.2 H 19.8 V 39.8 H 0.2 Z"
+                     fill="#f6e3d6"
+                     id="path117" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 3; share_left: 0.22767238992"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,40.2 H 19.8 V 59.8 H 0.2 Z"
+                     fill="#f3d4c2"
+                     id="path118" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 4; share_left: 0.248587570621"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,60.2 H 19.8 V 79.8 H 0.2 Z"
+                     fill="#f0cab6"
+                     id="path119" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 5; share_left: 0.327984020938"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,80.2 H 19.8 V 99.8 H 0.2 Z"
+                     fill="#e5a688"
+                     id="path120" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 1; share_left: 0.193525121483"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,0.2 H 39.8 V 19.8 H 20.2 Z"
+                     fill="#f6e4d7"
+                     id="path121" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 2; share_left: 0.201420187692"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,20.2 H 39.8 V 39.8 H 20.2 Z"
+                     fill="#f6e0d2"
+                     id="path122" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 3; share_left: 0.237029570544"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,40.2 H 39.8 V 59.8 H 20.2 Z"
+                     fill="#f2cfbd"
+                     id="path123" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 4; share_left: 0.236171963189"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,60.2 H 39.8 V 79.8 H 20.2 Z"
+                     fill="#f2d0bd"
+                     id="path124" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 5; share_left: 0.287608695652"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,80.2 H 39.8 V 99.8 H 20.2 Z"
+                     fill="#ebb89f"
+                     id="path125" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 1; share_left: 0.229534730087"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,0.2 H 59.8 V 19.8 H 40.2 Z"
+                     fill="#f3d3c1"
+                     id="path126" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 2; share_left: 0.22337820214"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,20.2 H 59.8 V 39.8 H 40.2 Z"
+                     fill="#f3d6c5"
+                     id="path127" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 3; share_left: 0.238771972263"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,40.2 H 59.8 V 59.8 H 40.2 Z"
+                     fill="#f2cfbc"
+                     id="path128" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 4; share_left: 0.247983840347"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,60.2 H 59.8 V 79.8 H 40.2 Z"
+                     fill="#f1cab6"
+                     id="path129" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 5; share_left: 0.308584728637"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,80.2 H 59.8 V 99.8 H 40.2 Z"
+                     fill="#e8af93"
+                     id="path130" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 1; share_left: 0.271602551711"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,0.2 H 99.8 V 19.8 H 80.2 Z"
+                     fill="#edbfa8"
+                     id="path131" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 2; share_left: 0.26792518185"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,20.2 H 99.8 V 39.8 H 80.2 Z"
+                     fill="#eec1ab"
+                     id="path132" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 3; share_left: 0.292608897127"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,40.2 H 99.8 V 59.8 H 80.2 Z"
+                     fill="#ebb69c"
+                     id="path133" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 4; share_left: 0.299843014129"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,60.2 H 99.8 V 79.8 H 80.2 Z"
+                     fill="#e9b398"
+                     id="path134" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 5; share_left: 0.376592334299"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,80.2 H 99.8 V 99.8 H 80.2 Z"
+                     fill="#dc8f6d"
+                     id="path135" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 1; share_left: 0.255826224085"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,0.2 H 79.8 V 19.8 H 60.2 Z"
+                     fill="#f0c7b2"
+                     id="path136" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 2; share_left: 0.264601545434"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,20.2 H 79.8 V 39.8 H 60.2 Z"
+                     fill="#eec3ac"
+                     id="path137" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 3; share_left: 0.271882820435"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,40.2 H 79.8 V 59.8 H 60.2 Z"
+                     fill="#edbfa8"
+                     id="path138" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 4; share_left: 0.271439261761"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,60.2 H 79.8 V 79.8 H 60.2 Z"
+                     fill="#edc0a9"
+                     id="path139" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 5; share_left: 0.355152767789"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,80.2 H 79.8 V 99.8 H 60.2 Z"
+                     fill="#e09979"
+                     id="path140" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g144">
+                  <g
+                     transform="translate(50,-20)"
+                     id="g143">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path141" />
+                    <g
+                       id="g142">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Northeast'"
+                         pointer-events="none"
+                         id="g141">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,8)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text141"
+                           style="-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000">Northeast</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path142" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path145" />
+            </g>
+            <g
+               transform="translate(0,280)"
+               id="g177">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 100 V 100 H 0 Z"
+                 id="path146" />
+              <g
+                 id="g176">
+                <g
+                   class="mark-rect role-mark child_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g171">
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 1; share_left: 0.358793969849"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,0.2 H 19.8 V 19.8 H 0.2 Z"
+                     fill="#e09877"
+                     id="path147" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 2; share_left: 0.33496354662"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,20.2 H 19.8 V 39.8 H 0.2 Z"
+                     fill="#e4a284"
+                     id="path148" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 3; share_left: 0.334300902287"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,40.2 H 19.8 V 59.8 H 0.2 Z"
+                     fill="#e4a385"
+                     id="path149" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 4; share_left: 0.34466166553"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,60.2 H 19.8 V 79.8 H 0.2 Z"
+                     fill="#e29e7f"
+                     id="path150" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 5; share_left: 0.400746245258"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,80.2 H 19.8 V 99.8 H 0.2 Z"
+                     fill="#d88460"
+                     id="path151" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 1; share_left: 0.264876878521"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,0.2 H 39.8 V 19.8 H 20.2 Z"
+                     fill="#eec3ac"
+                     id="path152" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 2; share_left: 0.27101585943"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,20.2 H 39.8 V 39.8 H 20.2 Z"
+                     fill="#eec0a9"
+                     id="path153" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 3; share_left: 0.299917571761"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,40.2 H 39.8 V 59.8 H 20.2 Z"
+                     fill="#e9b298"
+                     id="path154" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 4; share_left: 0.303211400444"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,60.2 H 39.8 V 79.8 H 20.2 Z"
+                     fill="#e9b196"
+                     id="path155" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 5; share_left: 0.345107636332"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,80.2 H 39.8 V 99.8 H 20.2 Z"
+                     fill="#e29e7f"
+                     id="path156" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 1; share_left: 0.257634100893"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,0.2 H 59.8 V 19.8 H 40.2 Z"
+                     fill="#efc6b1"
+                     id="path157" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 2; share_left: 0.2418784641"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,20.2 H 59.8 V 39.8 H 40.2 Z"
+                     fill="#f1cdba"
+                     id="path158" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 3; share_left: 0.241003034182"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,40.2 H 59.8 V 59.8 H 40.2 Z"
+                     fill="#f1ceba"
+                     id="path159" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 4; share_left: 0.277766658883"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,60.2 H 59.8 V 79.8 H 40.2 Z"
+                     fill="#edbda5"
+                     id="path160" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 5; share_left: 0.358080798674"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,80.2 H 59.8 V 99.8 H 40.2 Z"
+                     fill="#e09877"
+                     id="path161" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 1; share_left: 0.339357975196"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,0.2 H 99.8 V 19.8 H 80.2 Z"
+                     fill="#e3a082"
+                     id="path162" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 2; share_left: 0.340643361429"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,20.2 H 99.8 V 39.8 H 80.2 Z"
+                     fill="#e3a081"
+                     id="path163" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 3; share_left: 0.359998494911"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,40.2 H 99.8 V 59.8 H 80.2 Z"
+                     fill="#df9776"
+                     id="path164" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 4; share_left: 0.363292485914"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,60.2 H 99.8 V 79.8 H 80.2 Z"
+                     fill="#df9675"
+                     id="path165" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 5; share_left: 0.426750991127"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,80.2 H 99.8 V 99.8 H 80.2 Z"
+                     fill="#d27852"
+                     id="path166" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 1; share_left: 0.338111667178"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,0.2 H 79.8 V 19.8 H 60.2 Z"
+                     fill="#e3a183"
+                     id="path167" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 2; share_left: 0.330556355742"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,20.2 H 79.8 V 39.8 H 60.2 Z"
+                     fill="#e5a487"
+                     id="path168" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 3; share_left: 0.332527407323"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,40.2 H 79.8 V 59.8 H 60.2 Z"
+                     fill="#e4a486"
+                     id="path169" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 4; share_left: 0.340154862767"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,60.2 H 79.8 V 79.8 H 60.2 Z"
+                     fill="#e3a081"
+                     id="path170" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 5; share_left: 0.419274337796"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,80.2 H 79.8 V 99.8 H 60.2 Z"
+                     fill="#d47c56"
+                     id="path171" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g175">
+                  <g
+                     transform="translate(50,-20)"
+                     id="g174">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path172" />
+                    <g
+                       id="g173">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'South'"
+                         pointer-events="none"
+                         id="g172">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,8)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text172"
+                           style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000">South</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path173" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path176" />
+            </g>
+            <g
+               transform="translate(0,420)"
+               id="g208">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 100 V 100 H 0 Z"
+                 id="path177" />
+              <g
+                 id="g207">
+                <g
+                   class="mark-rect role-mark child_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g202">
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 1; share_left: 0.227148463336"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,0.2 H 19.8 V 19.8 H 0.2 Z"
+                     fill="#f3d4c2"
+                     id="path178" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 2; share_left: 0.218684033971"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,20.2 H 19.8 V 39.8 H 0.2 Z"
+                     fill="#f4d8c7"
+                     id="path179" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 3; share_left: 0.21518384832"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,40.2 H 19.8 V 59.8 H 0.2 Z"
+                     fill="#f4daca"
+                     id="path180" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 4; share_left: 0.207156027309"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,60.2 H 19.8 V 79.8 H 0.2 Z"
+                     fill="#f5ddce"
+                     id="path181" />
+                  <path
+                     aria-label="Race: Asian; Income Quintile: 5; share_left: 0.238420810097"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 0.2,80.2 H 19.8 V 99.8 H 0.2 Z"
+                     fill="#f2cfbc"
+                     id="path182" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 1; share_left: 0.265102700785"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,0.2 H 39.8 V 19.8 H 20.2 Z"
+                     fill="#eec2ac"
+                     id="path183" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 2; share_left: 0.258699717649"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,20.2 H 39.8 V 39.8 H 20.2 Z"
+                     fill="#efc5b0"
+                     id="path184" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 3; share_left: 0.29677830831"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,40.2 H 39.8 V 59.8 H 20.2 Z"
+                     fill="#eab49a"
+                     id="path185" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 4; share_left: 0.29524504636"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,60.2 H 39.8 V 79.8 H 20.2 Z"
+                     fill="#eab59b"
+                     id="path186" />
+                  <path
+                     aria-label="Race: Black; Income Quintile: 5; share_left: 0.307220386975"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 20.2,80.2 H 39.8 V 99.8 H 20.2 Z"
+                     fill="#e8af94"
+                     id="path187" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 1; share_left: 0.197691188387"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,0.2 H 59.8 V 19.8 H 40.2 Z"
+                     fill="#f6e2d4"
+                     id="path188" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 2; share_left: 0.183311369035"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,20.2 H 59.8 V 39.8 H 40.2 Z"
+                     fill="#f7e8dd"
+                     id="path189" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 3; share_left: 0.179532629434"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,40.2 H 59.8 V 59.8 H 40.2 Z"
+                     fill="#f8eadf"
+                     id="path190" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 4; share_left: 0.192811928497"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,60.2 H 59.8 V 79.8 H 40.2 Z"
+                     fill="#f7e4d7"
+                     id="path191" />
+                  <path
+                     aria-label="Race: Hispanic; Income Quintile: 5; share_left: 0.25620862377"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 40.2,80.2 H 59.8 V 99.8 H 40.2 Z"
+                     fill="#f0c7b1"
+                     id="path192" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 1; share_left: 0.333039577965"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,0.2 H 99.8 V 19.8 H 80.2 Z"
+                     fill="#e4a385"
+                     id="path193" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 2; share_left: 0.315740490162"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,20.2 H 99.8 V 39.8 H 80.2 Z"
+                     fill="#e7ab8f"
+                     id="path194" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 3; share_left: 0.322636103152"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,40.2 H 99.8 V 59.8 H 80.2 Z"
+                     fill="#e6a88b"
+                     id="path195" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 4; share_left: 0.314473258448"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,60.2 H 99.8 V 79.8 H 80.2 Z"
+                     fill="#e7ac90"
+                     id="path196" />
+                  <path
+                     aria-label="Race: Other; Income Quintile: 5; share_left: 0.334150392188"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 80.2,80.2 H 99.8 V 99.8 H 80.2 Z"
+                     fill="#e4a385"
+                     id="path197" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 1; share_left: 0.364425138714"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,0.2 H 79.8 V 19.8 H 60.2 Z"
+                     fill="#df9574"
+                     id="path198" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 2; share_left: 0.349858123078"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,20.2 H 79.8 V 39.8 H 60.2 Z"
+                     fill="#e19c7c"
+                     id="path199" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 3; share_left: 0.359718264888"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,40.2 H 79.8 V 59.8 H 60.2 Z"
+                     fill="#e09777"
+                     id="path200" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 4; share_left: 0.347510448336"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,60.2 H 79.8 V 79.8 H 60.2 Z"
+                     fill="#e29d7d"
+                     id="path201" />
+                  <path
+                     aria-label="Race: White; Income Quintile: 5; share_left: 0.373944172791"
+                     role="graphics-symbol"
+                     aria-roledescription="rect mark"
+                     d="M 60.2,80.2 H 79.8 V 99.8 H 60.2 Z"
+                     fill="#dd916f"
+                     id="path202" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g206">
+                  <g
+                     transform="translate(50,-20)"
+                     id="g205">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path203" />
+                    <g
+                       id="g204">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'West'"
+                         pointer-events="none"
+                         id="g203">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,8)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           fill="#000000"
+                           opacity="1"
+                           id="text203"
+                           style="-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;opacity:1;fill:#000000">West</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path204" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path207" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g213"
+             transform="translate(-11.757673,637.52713)">
+            <g
+               transform="translate(-27.561523,-40)"
+               id="g212">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 Z"
+                 pointer-events="none"
+                 id="path209" />
+              <g
+                 id="g211">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'Share by home region'"
+                   pointer-events="none"
+                   id="g210">
+                  <text
+                     text-anchor="start"
+                     transform="translate(24.821753,-11.821753)"
+                     font-family="sans-serif"
+                     font-size="16px"
+                     font-weight="bold"
+                     fill="#1a1a17"
+                     opacity="1"
+                     id="text209"
+                     style="white-space:pre;inline-size:183.727"
+                     xml:space="preserve"><tspan
+                       x="0"
+                       y="14.597285"
+                       id="tspan1">Share by home </tspan><tspan
+                       x="0"
+                       y="34.597285"
+                       id="tspan2">region</tspan></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path211" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path214" />
+      </g>
+    </g>
+  </g>
+</svg>
