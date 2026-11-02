@@ -6,8 +6,8 @@ locations at age 16 and young adult locations at age 36. This infographic uses t
 
 The Migration Patterns by Race and Parental Income csv file is too large to be stored on Github. It can be downloaded [here](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=0#resource-listing). The file is in the section "The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets".  
 
-!(static-viz/page1.png)
-!(static-viz/page2.png)
+![page1](static-viz/page1.png)
+![page2](static-viz/page2.png)
 
 
 
